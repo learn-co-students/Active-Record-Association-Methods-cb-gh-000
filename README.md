@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- Understand the common methods we have access to from our Active Record
+- Understand the common methods we have access to from our Active Records
    associations
 - Use the methods that Active Record gives you based on your associations
 
